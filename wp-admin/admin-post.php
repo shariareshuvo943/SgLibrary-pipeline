@@ -8,7 +8,7 @@
  * @subpackage Administration
  */
 
-/** We are located in WordPress Administration Screens ttt */
+/** We are located in WordPress Administration Screens ttt kkk */
 if ( ! defined( 'WP_ADMIN' ) ) {
 	define( 'WP_ADMIN', true );
 }
