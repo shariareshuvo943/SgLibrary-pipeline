@@ -32,7 +32,7 @@ if ( empty( $_REQUEST['action'] ) || ! is_scalar( $_REQUEST['action'] ) ) {
 	wp_die( '0', 400 );
 }
 
-/** Load WordPress Administration APIs */
+/** Load WordPress Administration APIs sss */
 require_once ABSPATH . 'wp-admin/includes/admin.php';
 
 /** Load Ajax Handlers for WordPress Core */
